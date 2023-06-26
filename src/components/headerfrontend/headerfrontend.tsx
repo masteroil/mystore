@@ -18,7 +18,7 @@ export const Headerfrontend = ({ className }: HeaderfrontendProps) => {
                 </div>
                 <div className={styles.logo}>
                     <img
-                        src="assets/logo.svg"
+                        src="/uploads/cropped-OFB-Logo-New3.png"
                         alt="Logo"
                     />
                 </div>
